@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" height="300" width="400" />
+<img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" align="right" height="300" width="400" />
 </div>  
   
 
@@ -28,7 +28,7 @@
   
 
 <br/>  
-
+<br>
 
 ## My Skill Set  
 <div align="center">  
