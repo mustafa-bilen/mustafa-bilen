@@ -1,26 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<div align="right">
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" height="300" width="400" />
+</div>  
+  
 
-<img align="right" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding-gif">
+### <div align="center">👋 I'm Mustafa, a full-time full-stack developer 👨‍💻 </div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-bilen&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-bilen" /> </p>
+- 🔭 I’m currently student at [Clarusway](https://clarusway.com/)  
+  
 
-- 🌱 **Front end, Back end, and all that things:)
+- 🌱 I’m currently learning full stack development  
+  
 
-- 💬 **I'm 18 years old, From Turkey, effort genius**
+- ❓ I'm 18 years old, from Turkey, life time learner
+  
+  
 
-- 📫 How to reach me **mustafabilen6669@gmail.com**
+- ⚡ I'm crazy with Naruto and video games.  
+  
 
-- ⚡ **I'm fall in love with Naruto world, and i like video games so much**
+<a href="https://github.com/mustafa-bilen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mstbln" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mstbln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstbln" height="30" width="40" /></a>
-</p>
+<br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-bilen&show_icons=true&locale=en&layout=compact" alt="mustafa-bilen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-bilen&show_icons=true&locale=en" alt="mustafa-bilen" /></p>
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+</div>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-bilen&" alt="mustafa-bilen" /></p>
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mustafa-bilen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mustafa-bilen&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
 
