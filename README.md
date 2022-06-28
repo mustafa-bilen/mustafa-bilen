@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-bilen&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-bilen" /> </p>
 
-- 🌱 I’m currently learning **Front end, Back end, and all that things:)**
+- 🌱 **Front end, Back end, and all that things:)
 
-- 💬 Ask me about **I'm 18 years old, From Turkey, effort genius**
+- 💬 **I'm 18 years old, From Turkey, effort genius**
 
 - 📫 How to reach me **mustafabilen6669@gmail.com**
 
-- ⚡ Fun fact **I'm fall in love with Naruto world, and i like video games so much**
+- ⚡ **I'm fall in love with Naruto world, and i like video games so much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
