@@ -43,7 +43,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 </div>  
 
-<br/>  
+
 
 
 ## Github Stats  
