@@ -19,6 +19,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mustafa-bilen&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## 🥷 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-bilen) 
+
 ## 🐍 Snake Eating my Graph :)
 ![snake gif](https://github.com/mustafa-bilen/mustafa-bilen/blob/output/github-contribution-grid-snake.svg)
 
