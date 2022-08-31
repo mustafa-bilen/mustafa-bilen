@@ -1,6 +1,6 @@
        
 
-# 🫣 Hello its me Mustafa!
+# 🫣 Hello it's me Mustafa!
 ![coding.gif](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 # 💫 About Me:
 🔭 18 years old full stack developer from Turkey<br>👯 I'm learning Full Stack Development<br>🤝 I’m looking for help with everything ;)<br>🌱 I’m currently learning everything .)<br>💬 Ask me about anything you want <br>⚡ wanna become a game dev in future 
