@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github,theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,theme=dark)](https://www.linkedin.com/in/mustafa-bilen/)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,react,py,django,bash,git,theme=dark)](https://skillicons.dev)
