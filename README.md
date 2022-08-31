@@ -1,4 +1,7 @@
+       
 
+# 🫣 Hello its me Mustafa!
+![coding.gif](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 # 💫 About Me:
 🔭 18 years old full stack developer from Turkey<br>👯 I'm learning Full Stack Development<br>🤝 I’m looking for help with everything ;)<br>🌱 I’m currently learning everything .)<br>💬 Ask me about anything you want <br>⚡ wanna become a game dev in future 
 
@@ -15,6 +18,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mustafa-bilen&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐍 Snake Eating my Graph :)
+![snake gif](https://github.com/mustafa-bilen/mustafa-bilen/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
