@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github+profile;My+name+is+Mustafa!)](https://git.io/typing-svg)
 ![coding.gif](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 # 💫 About Me:
-🔭 18 years old full stack developer from Turkey<br>👯 I'm learning Full Stack Development<br>🤝 I’m looking for help with everything ;)<br>🌱 I’m currently learning everything .)<br>💬 Ask me about anything you want <br>⚡ wanna become a game dev in future <br>Check my [Youtube](https://www.youtube.com/@mustafa-bilen) channel
+🔭 18 years old front end developer from Turkey<br>👨‍💻 I'm currently mastering React Js<br>🤝 I’m looking for help with everything ;)<br>🌱 I’m currently learning everything .)<br>💬 Ask me about anything you want <br>⚡ wanna become a game dev in future <br>🎥 Check my [Youtube](https://www.youtube.com/@mustafa-bilen) channel
 
 
 ## 🌐 Socials:
