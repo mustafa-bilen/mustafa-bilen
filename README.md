@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin,theme=dark)](https://www.linkedin.com/in/mustafa-bilen/)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,react,py,django,bash,git,vscode,discord,theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react,py,bash,git,vscode,discord,theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mustafa-bilen&theme=tokyonight&hide_border=false)
