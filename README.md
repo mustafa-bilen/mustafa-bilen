@@ -5,10 +5,6 @@
 # 💫 About Me:
 🔭 18 years old front end developer from Turkey<br>👨‍💻 I'm currently mastering React Js<br>🤝 I’m looking for help with everything ;)<br>🌱 I’m currently learning everything .)<br>💬 Ask me about anything you want <br>🎥 Check my [Youtube](https://www.youtube.com/@mustafa-bilen) channel
 
-
-## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin,theme=dark)](https://www.linkedin.com/in/mustafa-bilen/)
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react,py,bash,git,vscode,discord,theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
@@ -17,9 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mustafa-bilen&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-## 🥷 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-bilen) 
 
 ## 🐍 Snake Eating my Graph :)
 ![snake gif](https://github.com/mustafa-bilen/mustafa-bilen/blob/output/github-contribution-grid-snake.svg)
